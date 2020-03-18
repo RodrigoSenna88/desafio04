@@ -1,13 +1,12 @@
-header{
+h1{
   background: #0404B4;
   color: #FFF;
-  font-size: larger;
-  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
   width: auto;
-  padding: 20px;
-  height: center;
+  display: auto;
   
   
+ 
 }
 
 body {

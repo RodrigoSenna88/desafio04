@@ -14,9 +14,9 @@ class Menssages extends Component {
     return (
       <>
         <ul>
-          { this.state.messages.map(message => <header width="max-content" key={message}>{message}</header>)}
+          { this.state.messages.map(message => <h1 width="max-content" key={message}>{message}</h1>)}
         </ul>
-        <h1>Messages</h1>
+        <h2>Messages</h2>
         <input type="text" onChange={this.handleInputChange} />
       </>
     );
