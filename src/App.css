@@ -2,8 +2,10 @@ h1{
   background: #0404B4;
   color: #FFF;
   margin: auto;
+  padding: 15px;
+  font-family: Arial, Helvetica, sans-serif;
   width: auto;
-  display: auto;
+  height: auto;
   
   
  
@@ -13,4 +15,5 @@ body {
   background: #E0ECF8;
   color: #0404B4;
   font-family: Arial, Helvetica, sans-serif;
+  padding: auto;
 }
